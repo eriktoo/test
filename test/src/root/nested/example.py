@@ -6,3 +6,4 @@ Created on Oct 5, 2013
 if __name__ == '__main__':
     print "Hello World"
     print "Hello Moon"
+    print "Hello Stars"
