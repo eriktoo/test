@@ -8,3 +8,4 @@ if __name__ == '__main__':
     print "Hello Moon"
     print "Hello Stars"
     print "Hello Andromeda"
+    print "Hello Mars"
